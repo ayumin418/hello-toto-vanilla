@@ -1,2 +1,2 @@
-# hello-toto-vanilla
+# vanilla-todo
 Created with CodeSandbox
